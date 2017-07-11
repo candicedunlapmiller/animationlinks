@@ -18,6 +18,11 @@ A link repo of links and animation frameworks. (WIP)
 CSS Animation Weekly
 Codepen Spark
 
+## Books
+[Designing Interface Animation by Val Head](https://www.amazon.com/Designing-Interface-Animation-Meaningful-Experience/dp/1933820322/ref=sr_1_1?ie=UTF8&qid=1499785147&sr=8-1&keywords=val+head)
+
+[Animation at Work by Rachel Nabors](https://abookapart.com/products/animation-at-work)
+
 ## Frameworks/Web apps
 - [SpiritApp](https://spiritapp.io/)
 - GSAP
