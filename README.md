@@ -6,7 +6,7 @@ A link repo of links and animation frameworks. (WIP)
 Web Animation Weekly
 Animation
 ## Frameworks/Web apps
-[SpiritApp](https://spiritapp.io/)
+- [SpiritApp](https://spiritapp.io/)
 - GSAP
 - WAAPI
 - Snap.svg
