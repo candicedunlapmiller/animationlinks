@@ -7,12 +7,12 @@ Web Animation Weekly
 Animation
 ## Frameworks/Web apps
 [SpiritApp](https://spiritapp.io/)
-GSAP
-WAAPI
-Snap.svg
-SVG.js
-Velocity.js
-D3.js
+- GSAP
+- WAAPI
+- Snap.svg
+- SVG.js
+- Velocity.js
+- D3.js
 
 
 ## Articles
