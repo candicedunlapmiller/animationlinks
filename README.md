@@ -12,6 +12,8 @@ A link repo of links and animation frameworks. (WIP)
 
 [Codepen of Animation Principles](https://codepen.io/collection/AxKOdY/)
 
+[ng-animate](https://jiayihu.github.io/ng-animate/)
+
 
 ## Newsletters
 [Web Animation Weekly](http://webanimationweekly.com/)
@@ -34,6 +36,8 @@ Codepen Spark
  [Animista](http://animista.net/)
 
 ## Articles
+[Delightful CSS Animation](http://www.namasteui.com/amaze-customers-delightful-css-animation/)
+
 [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 
 [Designing for the Appearance of Speed](https://medium.com/mobify-design-team/designing-for-the-appearance-of-speed-aaabc7f568c2)
@@ -45,6 +49,8 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
+[Animated CSS Loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
+
 [How to Achieve 60 fps animations with css3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
 [CSS Tricks: Repeatable, Staggered Animation Three Ways: Sass, GSAP and Web Animations API](https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
