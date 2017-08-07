@@ -33,7 +33,7 @@ Codepen Spark
 - SVG.js
 - Velocity.js
 - D3.js
- [Animista](http://animista.net/)
+- [Animista](http://animista.net/)
 
 ## Articles
 [Delightful CSS Animation](http://www.namasteui.com/amaze-customers-delightful-css-animation/)
