@@ -34,6 +34,7 @@ Codepen Spark
 - Velocity.js
 - D3.js
 - [Animista](http://animista.net/)
+- [Just Animate 2](https://github.com/just-animate/just-animate)
 
 ## Articles
 [Delightful CSS Animation](http://www.namasteui.com/amaze-customers-delightful-css-animation/)
@@ -50,7 +51,9 @@ Codepen Spark
 
 ## Tutorials
 [Angular Web Animations Deep Dive] (https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
+
 [Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
+
 [Animated CSS Loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
 
 [How to Achieve 60 fps animations with css3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
