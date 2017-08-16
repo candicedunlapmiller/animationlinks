@@ -50,7 +50,9 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
-[Angular Web Animations Deep Dive] (https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
+[Frame by Frame Animation](https://www.sitepoint.com/frame-by-frame-animation-css-javascript/)
+
+[Angular Web Animations Deep Dive](https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
 
 [Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
 
