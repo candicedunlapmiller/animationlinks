@@ -50,6 +50,8 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
+[Animation Interaction Techniques](https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/)
+
 [Frame by Frame Animation](https://www.sitepoint.com/frame-by-frame-animation-css-javascript/)
 
 [Angular Web Animations Deep Dive](https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
