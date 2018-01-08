@@ -14,6 +14,9 @@ A link repo of links and animation frameworks. (WIP)
 
 [ng-animate](https://jiayihu.github.io/ng-animate/)
 
+[Easings Visualizer](http://easings.net/)
+
+[GSAP Easing Visualizer](https://greensock.com/ease-visualizer)
 
 ## Newsletters
 [Web Animation Weekly](http://webanimationweekly.com/)
