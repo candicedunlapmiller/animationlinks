@@ -38,8 +38,11 @@ Codepen Spark
 - D3.js
 - [Animista](http://animista.net/)
 - [Just Animate 2](https://github.com/just-animate/just-animate)
+- [https://gibbok.github.io/animatelo/](Animatelo - preview web animations)
 
 ## Articles
+[https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/](Repeatable Staggered Animations 3 ways - SAP, SASS, Web Animations API)
+
 [Delightful CSS Animation](http://www.namasteui.com/amaze-customers-delightful-css-animation/)
 
 [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
