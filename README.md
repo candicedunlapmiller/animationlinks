@@ -41,6 +41,8 @@ Codepen Spark
 - [https://gibbok.github.io/animatelo/](Animatelo - preview web animations)
 
 ## Articles
+[https://css-tricks.com/making-css-animations-feel-natural/](Making Animations Feel Natural)
+
 [https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/](Repeatable Staggered Animations 3 ways - SAP, SASS, Web Animations API)
 
 [Delightful CSS Animation](http://www.namasteui.com/amaze-customers-delightful-css-animation/)
