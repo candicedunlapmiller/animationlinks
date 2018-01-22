@@ -41,6 +41,8 @@ Codepen Spark
 - [https://gibbok.github.io/animatelo/](Animatelo - preview web animations)
 
 ## Articles
+[https://www.heartinternet.uk/blog/should-you-use-css-or-javascript-for-web-animations/](CSS vs Javascript for Animations)
+
 [https://css-tricks.com/making-css-animations-feel-natural/](Making Animations Feel Natural)
 
 [https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/](Repeatable Staggered Animations 3 ways - SAP, SASS, Web Animations API)
@@ -58,6 +60,8 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
+[http://devtuts.online/css-animation-tutorial/](Beginner CSS Animation Tutorial from Devtuts)
+
 [Animation Interaction Techniques with WebGL](https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/)
 
 [GPS Creative Getting Started with CSS Animation](https://codepen.io/gps-creative/post/getting-started-with-css-animations)
