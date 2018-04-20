@@ -41,6 +41,8 @@ Codepen Spark
 - [https://gibbok.github.io/animatelo/](Animatelo - preview web animations)
 
 ## Articles
+[Smooth CSS Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
+
 [https://www.heartinternet.uk/blog/should-you-use-css-or-javascript-for-web-animations/](CSS vs Javascript for Animations)
 
 [https://css-tricks.com/making-css-animations-feel-natural/](Making Animations Feel Natural)
