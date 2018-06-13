@@ -64,7 +64,9 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
-[https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8}](A Guide to CSS Animations)
+[https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8}](A Guide to CSS Animations Part 1)
+
+[https://codeburst.io/a-guide-to-css-animation-part-2-2cd422f78567](Guide to CSS Animation Part 2)
 
 [http://devtuts.online/css-animation-tutorial/](Beginner CSS Animation Tutorial from Devtuts)
 
