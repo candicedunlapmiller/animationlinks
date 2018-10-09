@@ -64,17 +64,17 @@ Codepen Spark
 [How to Analyze Usability from Motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee)
 
 ## Tutorials
-[https://css-tricks.com/animate-images-and-videos-with-curtains-js/](Animate Images and Videos with curtains.js)
+[https://css-tricks.com/animate-images-and-videos-with-curtains-js/] (Animate Images and Videos with curtains.js)
 
-[https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8}](A Guide to CSS Animations Part 1)
+[https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8}] (A Guide to CSS Animations Part 1)
 
-[https://codeburst.io/a-guide-to-css-animation-part-2-2cd422f78567](Guide to CSS Animation Part 2)
+[https://codeburst.io/a-guide-to-css-animation-part-2-2cd422f78567] (Guide to CSS Animation Part 2)
 
-[https://codeburst.io/a-guide-to-css-animation-part-3-2e497110119](Guide to CSS Animation Part 3)
+[https://codeburst.io/a-guide-to-css-animation-part-3-2e497110119] (Guide to CSS Animation Part 3)
 
-[http://devtuts.online/css-animation-tutorial/](Beginner CSS Animation Tutorial from Devtuts)
+[http://devtuts.online/css-animation-tutorial/] (Beginner CSS Animation Tutorial from Devtuts)
 
-[Animation Interaction Techniques with WebGL](https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/)
+[Animation Interaction Techniques with WebGL] (https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/)
 
 [GPS Creative Getting Started with CSS Animation](https://codepen.io/gps-creative/post/getting-started-with-css-animations)
 
