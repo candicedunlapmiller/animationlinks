@@ -4,34 +4,34 @@ A link repo of links and animation frameworks. (WIP)
 ## Reference Sites / Utils
 [CSS Animation Rocks](https://cssanimation.rocks/)
 
-[25 Useful Web Animation Tools 2017](http://bashooka.com/coding/25-useful-web-animation-tools-2017/)
+[25 Useful Web Animation Tools 2017] (http://bashooka.com/coding/25-useful-web-animation-tools-2017/)
 
-[Illusion of Life - 12 Principles](http://the12principles.tumblr.com)
+[Illusion of Life - 12 Principles] (http://the12principles.tumblr.com)
 
-[Animation Principles for the Web (related to 12 Principles of Disney](https://cssanimation.rocks/principles/)
+[Animation Principles for the Web (related to 12 Principles of Disney] (https://cssanimation.rocks/principles/)
 
-[Codepen of Animation Principles](https://codepen.io/collection/AxKOdY/)
+[Codepen of Animation Principles] (https://codepen.io/collection/AxKOdY/)
 
-[ng-animate](https://jiayihu.github.io/ng-animate/)
+[ng-animate] (https://jiayihu.github.io/ng-animate/)
 
-[Easings Visualizer](http://easings.net/)
+[Easings Visualizer] (http://easings.net/)
 
-[GSAP Easing Visualizer](https://greensock.com/ease-visualizer)
+[GSAP Easing Visualizer] (https://greensock.com/ease-visualizer)
 
-[Keyframes Visualizer](https://keyframes.app/)
+[Keyframes Visualizer] (https://keyframes.app/)
 
 ## Newsletters
-[Web Animation Weekly](http://webanimationweekly.com/)
+[Web Animation Weekly] (http://webanimationweekly.com/)
 CSS Animation Weekly
 Codepen Spark
 
 ## Books
-[Designing Interface Animation by Val Head](https://www.amazon.com/Designing-Interface-Animation-Meaningful-Experience/dp/1933820322/ref=sr_1_1?ie=UTF8&qid=1499785147&sr=8-1&keywords=val+head)
+[Designing Interface Animation by Val Head] (https://www.amazon.com/Designing-Interface-Animation-Meaningful-Experience/dp/1933820322/ref=sr_1_1?ie=UTF8&qid=1499785147&sr=8-1&keywords=val+head)
 
-[Animation at Work by Rachel Nabors](https://abookapart.com/products/animation-at-work)
+[Animation at Work by Rachel Nabors] (https://abookapart.com/products/animation-at-work)
 
 ## Frameworks/Web apps
-- [SpiritApp](https://spiritapp.io/)
+- [SpiritApp] (https://spiritapp.io/)
 - GSAP
 - WAAPI
 - Snap.svg
@@ -84,17 +84,17 @@ Codepen Spark
 
 [Angular Web Animations Deep Dive](https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
 
-[Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
+[Achieving 60 FPS] (https://blog.algolia.com/performant-web-animations/)
 
-[Animated CSS Loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
+[Animated CSS Loader] (https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
 
-[How to Achieve 60 fps animations with css3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
+[How to Achieve 60 fps animations with css3] (https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
-[CSS Tricks: Repeatable, Staggered Animation Three Ways: Sass, GSAP and Web Animations API](https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
+[CSS Tricks: Repeatable, Staggered Animation Three Ways: Sass, GSAP and Web Animations API] (https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
 
-[Masking vs. Clipping](https://css-tricks.com/masking-vs-clipping-use/)
+[Masking vs. Clipping] (https://css-tricks.com/masking-vs-clipping-use/)
 
-[Understand the 12 Principles of Animation](http://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
+[Understand the 12 Principles of Animation] (http://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
 
 
 ## Slack Channels
