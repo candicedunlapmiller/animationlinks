@@ -4,21 +4,21 @@ A link repo of links and animation frameworks. (WIP)
 ## Reference Sites / Utils
 [CSS Animation Rocks](https://cssanimation.rocks/)
 
-[25 Useful Web Animation Tools 2017] (http://bashooka.com/coding/25-useful-web-animation-tools-2017/)
+[25 Useful Web Animation Tools 2017](http://bashooka.com/coding/25-useful-web-animation-tools-2017/)
 
-[Illusion of Life - 12 Principles] (http://the12principles.tumblr.com)
+[Illusion of Life - 12 Principles](http://the12principles.tumblr.com)
 
-[Animation Principles for the Web (related to 12 Principles of Disney] (https://cssanimation.rocks/principles/)
+[Animation Principles for the Web (related to 12 Principles of Disney](https://cssanimation.rocks/principles/)
 
-[Codepen of Animation Principles] (https://codepen.io/collection/AxKOdY/)
+[Codepen of Animation Principles](https://codepen.io/collection/AxKOdY/)
 
-[ng-animate] (https://jiayihu.github.io/ng-animate/)
+[ng-animate](https://jiayihu.github.io/ng-animate/)
 
-[Easings Visualizer] (http://easings.net/)
+[Easings Visualizer](http://easings.net/)
 
-[GSAP Easing Visualizer] (https://greensock.com/ease-visualizer)
+[GSAP Easing Visualizer](https://greensock.com/ease-visualizer)
 
-[Keyframes Visualizer] (https://keyframes.app/)
+[Keyframes Visualizer](https://keyframes.app/)
 
 ## Newsletters
 [Web Animation Weekly] (http://webanimationweekly.com/)
