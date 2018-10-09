@@ -84,17 +84,17 @@ Codepen Spark
 
 [Angular Web Animations Deep Dive](https://blog.thoughtram.io/angular/2017/07/26/a-web-animations-deep-dive-with-angular.html)
 
-[Achieving 60 FPS] (https://blog.algolia.com/performant-web-animations/)
+[Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/)
 
-[Animated CSS Loader] (https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
+[Animated CSS Loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
 
-[How to Achieve 60 fps animations with css3] (https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
+[How to Achieve 60 fps animations with css3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
-[CSS Tricks: Repeatable, Staggered Animation Three Ways: Sass, GSAP and Web Animations API] (https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
+[CSS Tricks: Repeatable, Staggered Animation Three Ways: Sass, GSAP and Web Animations API](https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
 
-[Masking vs. Clipping] (https://css-tricks.com/masking-vs-clipping-use/)
+[Masking vs. Clipping](https://css-tricks.com/masking-vs-clipping-use/)
 
-[Understand the 12 Principles of Animation] (http://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
+[Understand the 12 Principles of Animation](http://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
 
 
 ## Slack Channels
